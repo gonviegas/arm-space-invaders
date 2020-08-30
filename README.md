@@ -16,4 +16,4 @@ The general requirements are as follows:
  - Execution must not cause runtime errors.
 
 
-![alt text](https://gitlab.com/gonv/arm-space-invaders/-/blob/master/ARM-1.png)
+![alt text](https://gitlab.com/gonv/arm-space-invaders/-/blob/master/ARM-1.png "Architecture")
