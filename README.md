@@ -16,6 +16,6 @@ The general requirements are as follows:
  - Execution must not cause runtime errors.
 
 
-![](https://gitlab.com/gonv/arm-space-invaders/-/blob/master/ARM-1.png?raw=true)
+https://gitlab.com/gonv/arm-space-invaders/-/blob/master/ARM-1.png?raw=true
 
 
